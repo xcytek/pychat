@@ -3,6 +3,7 @@
 #*************************************
 #           Super Chat               *
 #    version 1.0 By Dionys Rosario   *
+#   Top contributors: Gadiel Reyes   *
 # 2012@copyleft all wrongs reversed  *
 #*************************************
 
